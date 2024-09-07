@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import logo from '../assets/img/icons8-fancy-voxel-48.png';
+
 import Title from '../templates/Title'
 import { useNavigate } from 'react-router-dom';
 
