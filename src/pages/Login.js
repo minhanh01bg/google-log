@@ -24,7 +24,7 @@ function Login() {
   }
   return (
     <>
-      <Title title='Login' />
+      <Title title='Đăng nhập' />
       <div data-theme="mytheme" className='roboto h-screen flex flex-col place-content-center jusify-center bg-[#f0f4f9]'>
         <form className="w-10/12 lg:w-10/12 bg-white max-w-5xl mx-auto rounded-box" onChange={handleChange} onSubmit={handleSubmit}>
           <div className='flex border-b px-4 items-center'>
